@@ -1,0 +1,3 @@
+-> same as generics in other programming language
+-> making template for a function that receive multiple arguments
+   argument for diff dtypes. reducing function overloading

@@ -1,0 +1,21 @@
+-> diff between struct and class is access modifier.
+
+*default access moddifier
+-> public: public member can be accessed from instace.
+-> private: only accessed at class level
+-> protected: class inheritace access
+
+-> struct member are by default public and class member are private.
+
+*constructor
+<className> <instance name>(params);
+
+*destructure
+destroying constructor
+
+* getter and setter
+getter or read values and setter is for write values.
+used to read and write private access scopes.
+
+* static
+stick with class not instantiated by object.
